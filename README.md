@@ -5,7 +5,7 @@ Software Engineering is something which coincides with my passion and hobby. I'm
 ### Talking about Personal Stuffs:
 
 - 🛠 &nbsp; I’m currently working with JavaScript, Express, React etc.
-- 🚀 &nbsp; I’m currently learning HTML, CSS and JS,[TypeScript](https://www.typescriptlang.org/), [GraphQL](https://graphql.org/) & [Next.js](https://nextjs.org/)
+- 🚀 &nbsp; I’m currently learning [TypeScript](https://www.typescriptlang.org/), [GraphQL](https://graphql.org/) & [Next.js](https://nextjs.org/)
 - 👾 &nbsp; Fun fact: I will think a good one.
 
 ### Languages and Tools:
